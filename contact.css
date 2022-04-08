@@ -1,0 +1,37 @@
+body{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 200;
+    line-height: 1.5;
+}
+body > div{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-color: grey;
+    padding: 20px;
+    border-radius: 10px;
+}
+form textarea{
+    width: 300px;
+    border: 1px solid brown;
+    background-color: gray;
+    outline: none;
+}
+
+form button{
+    background-color: burlywood;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+
+}
+
+h1{
+    margin: none;
+    font-weight: 200;
+    color: burlywood;
+}
+
